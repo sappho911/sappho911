@@ -7,7 +7,7 @@
 
 <p align="center" style="font-family: 'Roboto', sans-serif;">
   <strong>
-    I'm a Full-Stack Developer from Finland.
+    I'm a  i'm a ...i'm a maker .... code maker ...content maker ... just having some fun writing the code.
   </strong>
 </p>
 
