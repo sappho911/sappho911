@@ -23,12 +23,6 @@
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
 </p>
 
-<h3 align="center" style="font-family: 'Roboto', sans-serif;">Communication Languages</h3>
-<p align="center">
-  <img src="https://flagcdn.com/w20/ru.png" alt="Russian" width="30" /> Russian &nbsp; 
-  <img src="https://flagcdn.com/w20/gb.png" alt="English" width="30" /> English &nbsp; 
-  <img src="https://flagcdn.com/w20/fi.png" alt="Finnish" width="30" /> Finnish
-</p>
 
 ---
 
