@@ -1,4 +1,3 @@
-<!-- Подключение шрифта Roboto из Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif;">
@@ -30,12 +29,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sappho911&hide_progress=true" alt="Top Languages" width="600" />
 </p>
 
 ---
