@@ -1,17 +1,17 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">
+<h2 style="font-family: 'Poppins', sans-serif;">
   Hello! 👋 Welcome to My GitHub Profile
 </h2>
 
-<p align="center" style="font-family: 'Poppins', sans-serif;">
+<p  style="font-family: 'Poppins', sans-serif;">
   <strong>
     I'm a  i'm a ...i'm is i'm
   </strong>
 </p>
 
-<h3 align="center" style="font-family: 'Poppins', sans-serif;">Languages and Frameworks</h3>
-<p align="center">
+<h3  style="font-family: 'Poppins', sans-serif;">Languages and Frameworks</h3>
+<p >
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
