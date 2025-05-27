@@ -4,13 +4,13 @@
   Hello! 👋 Welcome to My GitHub Profile
 </h2>
 
-<p  style="font-family: 'Poppins', sans-serif;">
+<p style="font-family: 'Poppins', sans-serif;">
   <strong>
     I'm a  i'm a ...i'm is i'm
   </strong>
 </p>
 
-<h3  style="font-family: 'Poppins', sans-serif;">Languages and Frameworks</h3>
+<h3 style="font-family: 'Poppins', sans-serif;">Languages and Frameworks</h3>
 <p >
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
@@ -25,16 +25,16 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Poppins', sans-serif;">📚 I’m currently learning</h3>
-<p align="center">
+<h3 style="font-family: 'Poppins', sans-serif;">📚 I’m currently learning</h3>
+<p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ---
 
-<h3 align="center" style="font-family: 'Poppins', sans-serif;">Connect with me</h3>
-<p align="center">
+<h3 style="font-family: 'Poppins', sans-serif;">Connect with me</h3>
+<p>
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
