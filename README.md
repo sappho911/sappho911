@@ -34,19 +34,6 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Roboto', sans-serif;">🚀 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sappho911&show_icons=true&theme=radical" alt="My GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0086721f-5f49-480c-9366-d665a87bc877" alt="Hacker Animation" width="600" />
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sappho911&hide_progress=true" alt="Top Languages" width="600" />
 </p>
