@@ -1,4 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
 <h2 align="center" style="font-family: 'Roboto', sans-serif;">
   Hello! 👋 Welcome to My GitHub Profile
